@@ -7,5 +7,5 @@ Our study looked at the number of customers and subscribers totaling up to 2,344
 Lastly, suggested repair times for bikes would ideally by between peak hours , 1-3 PM and after 9 PM. 
 To summarize findings a dashboard and story has been created
 
-[link to story]("https://public.tableau.com/app/profile/bb6719/viz/Bikesharing_final/Deliverable3")
-[link to dashboard]("https://public.tableau.com/app/profile/bb6719/viz/Dashboard_16376184959480/Dashboard1")
+"https://public.tableau.com/app/profile/bb6719/viz/Bikesharing_final/Deliverable3"
+"https://public.tableau.com/app/profile/bb6719/viz/Dashboard_16376184959480/Dashboard1"
